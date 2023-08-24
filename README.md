@@ -1,2 +1,3 @@
-# Website
-The website for IELTScream
+# IELTScream
+
+Website for IELTScream.
